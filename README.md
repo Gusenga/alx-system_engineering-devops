@@ -1,1 +1,1 @@
-My first readme
+Script that describes current working directory
